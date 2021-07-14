@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Mark Miranda, my pronouns are he/him.
+
+I graduated from the [Turing School of Software and Design](https://turing.edu) in 2016. I work as a Software Engineer at [Doximity](https://workat.doximity.com/).
+
+
 <!--
 **notmarkmiranda/notmarkmiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
