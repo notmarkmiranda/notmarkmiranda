@@ -2,7 +2,7 @@
 
 My name is Mark Miranda, my pronouns are he/him.
 
-I graduated from the [Turing School of Software and Design](https://turing.edu) in 2016. I work as a Software Engineer at [Doximity](https://workat.doximity.com/).
+I graduated from the [Turing School of Software and Design](https://turing.edu) in 2016. I work as a Software Engineer at [Smartsheet](https://smartsheet.com/).
 
 
 <!--
